@@ -1,16 +1,16 @@
-### Hi there 👋
+### \<Generic Greetings\>
 
-<!--
-**nurof3n/nurof3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+If you read this, you're **cool**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I appreciate you reading this instead of playing video games.
+
+Really.
+
+Actually, you should go play something instead.
+
+Nothing fun to see here.
+
+Seriously.
+
+Don't you have anything more important to do?
