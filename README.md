@@ -9,7 +9,7 @@ I appreciate you reading this instead of playing video games.
 
 Actually, you should go play something instead.
 
-Nothing fun to see here.
+Nothing fun to see here :x.
 
 Seriously.
 
