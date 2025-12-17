@@ -15,7 +15,7 @@ Seriously.
 
 Don't you have anything more important to do?
 
-If you're still here, plug this into `gcc` and dm me if you know what it is ;)
+If you're still here, plug this into `gcc` ;)
 ```C++
 int main(n){float r,i,R,I,b;for(i=-1;i<1;i+=.06,puts(""))for(r=-2;I=i,(R=r)<1;
 r+=.03,putchar(n+31))for(n=0;b=I*I,26>n++&&R*R+b<4;I=2*R*I+i,R=R*R-b+r);}
