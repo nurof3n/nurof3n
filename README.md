@@ -5,7 +5,7 @@ If you read this, you're **cool**.
 
 I appreciate you reading this instead of playing video games.
 
-Really.
+*Really*.
 
 Actually, you should go play something instead.
 
